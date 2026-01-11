@@ -21,7 +21,7 @@ O sistema é composto pelas seguintes planilhas:
 
 ### Controle e Análise 
 - **Contas a Pagar**
-- **Contas a Receber**
+- **Contanas a Receber**
 - **Contas a Receber Vencidas**
 - **FluxoCaixaConsolidado**
 - **DetalhaReceita** e **DetalhaDespesa** para análise por categoria
