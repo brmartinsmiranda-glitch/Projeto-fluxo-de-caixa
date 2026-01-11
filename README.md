@@ -19,7 +19,7 @@ O sistema é composto pelas seguintes planilhas:
 - **PCEntradasN1 / PCEntradasN2**: classificação de entradas (nível 1 e 2)  
 - **PCSaidasN1 / PCSaidasN2**: classificação de saídas (nível 1 e 2)
 
-### Controle e Análise
+### Controle e Análise 
 - **Contas a Pagar**
 - **Contas a Receber**
 - **Contas a Receber Vencidas**
